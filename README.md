@@ -9,7 +9,9 @@ The design includes a complete datapath and control unit, supporting core instru
 
 ## 🧠 Architecture
 
-![Datapath](./single_cycle_RISCV.png)
+<p align="center">
+  <img src="docs/single_cycle_RISCV.png" alt="RISC-V Datapath" width="700"/>
+</p>
 
 The processor consists of the following major components:
 - Program Counter (PC)
